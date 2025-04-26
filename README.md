@@ -4,7 +4,7 @@ This project analyzes over 15 years of hourly electricity consumption data from 
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### Identified Clusters:
 
@@ -15,7 +15,7 @@ This project analyzes over 15 years of hourly electricity consumption data from 
 
 ---
 
-### 📌 Cluster 1 (Residential/Variable Entities)
+### Cluster 1 (Residential/Variable Entities)
 - Likely represents **residential areas** or businesses with strong weekday/weekend behavioral differences.
 - Features:
   - Lower total energy use
@@ -24,7 +24,7 @@ This project analyzes over 15 years of hourly electricity consumption data from 
 
 ---
 
-### 📌 Cluster 0 (Commercial/Industrial Entities)
+### Cluster 0 (Commercial/Industrial Entities)
 - Likely represents **commercial buildings, factories, or institutions** operating consistently across weekdays.
 - Features:
   - Higher total energy use
@@ -33,7 +33,7 @@ This project analyzes over 15 years of hourly electricity consumption data from 
 
 ---
 
-## 📈 General Insights
+## General Insights
 
 - **Behavioral segmentation** reveals actionable differences in how energy is consumed across customer types and time periods.
 - **Weekend patterns** are a key differentiator between residential and commercial/institutional energy usage.
